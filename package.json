@@ -1,6 +1,6 @@
 {
   "name": "@codate/email",
-  "version": "1.1.0",
+  "version": "2.5.0",
   "description": "Email template e email sender",
   "author": "Charles Viegas <charles.viegas@codate.com.br>",
   "private": false,
